@@ -13,6 +13,7 @@ Treinamento de análise de dados com o curso da DIO, para competências diversas
 | ----- | ------- |
 | Aula 1: Versionamento de código | [Resumo 1]()
 | Aula 2: Salvando alterações no repositório local | [Resumo 2]() |
+| Aula 3: Desfazendo alterações no repositório local | [Resumo 3]() |
 
 💻💻 Código essencial para transformar um diretório em um repositório git:
 
